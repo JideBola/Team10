@@ -1,3 +1,3 @@
 ready to deploy
-web applocations
+web applications
 come on over
